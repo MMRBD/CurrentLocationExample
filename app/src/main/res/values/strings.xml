@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CurrentLocationExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="authorizing">Authorizing...</string>
 </resources>
